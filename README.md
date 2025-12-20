@@ -1,15 +1,24 @@
-# DevOps Capstone Template
+# devops capstone project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
-This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+In this project, I applied comprehensive DevOps practices to complete an account management microservice.
 
-## Usage
+The main objective was to transform an initial codebase into a robust, tested application ready for deployment in a cloud environment using modern methodologies.
 
-You should use this template to start your DevOps Capstone project. It contains all of the code that you will need to get started.
+### Objetivos Cumplidos
 
-Do Not fork this code! It is meant to be used by pressing the  <span style=color:white;background:green>**Use this Template**</span> button in GitHub. This will copy the code to your own repository with no connection back to the original repository like a fork would. This is what you want.
+- **Test-Driven Development (TDD):**  
+  Implementación de las funciones RESTful faltantes (READ, UPDATE, DELETE y LIST).
+- **Code Quality:**  
+  Test coverage exceeding **95%**.
+- **Dockerización:**  
+  Microservice packaging using **Docker**.
+- **CI/CD:**  
+  Creation of **Continuous Integration and Continuous Deployment** pipelines.
+- **Orchestration:**  
+  Deployment and management of the service on a **Kubernetes/OpenShift** cluster.
 
 ## Development Environment
 
@@ -123,8 +132,10 @@ Please only use these commands for working stand-alone on your own computer with
 You can now perform Tekton development locally, just like in the Cloud IDE lab environment.
 
 ## Author
+[Jesus Cespedes](https://www.linkedin.com/in/jesus-daniel-cespedes-buritica-987144347/) – IBM Software Engineering and DevOps Professional Certificate student.
 
-[John Rofrano](https://www.coursera.org/instructor/johnrofrano), Senior Technical Staff Member, DevOps Champion, @ IBM Research, and Instructor @ Coursera
+Original codebase provided by [John Rofrano](https://www.coursera.org/instructor/johnrofrano), Senior Technical Staff Member, DevOps Champion, @ IBM Research, and Instructor @ Coursera as part of the IBM curriculum.
+
 
 ## License
 
