@@ -114,3 +114,4 @@ ENV/
 # Carpeta de proyecto personal (no subir a GitHub)
 proyecto/
 IMPLEMENTATION_GUIDE.md
+security-headers-done.txt
